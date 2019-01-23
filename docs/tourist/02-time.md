@@ -55,7 +55,7 @@ _**app.component.html**_
 _**app.component.ts**_
 
 ```
-import {Component, Renderer2, ViewContainerRef} from '@angular/core';
+import {Component} from '@angular/core';
 import {TimeGr, TimeService} from '@rdkmaster/jigsaw';
 
 @Component({
